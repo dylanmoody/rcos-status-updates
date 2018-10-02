@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Set up docker for the hedgehogs project, as well as downloaded the repo
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> planning on learning Django, as I will be on the team making the website
+> create a basic website that we can eventually add the project to
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> I have literally never looked at Django before
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Maybe look into making some sort of mockup of the website
