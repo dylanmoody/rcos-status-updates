@@ -13,3 +13,4 @@
 ## Notes
 
 > link to the presentation:
+https://docs.google.com/presentation/d/1kHYL0tgux8fUVpsN6JfmkAJCKDYAC118m77z-b0NYUI/edit?usp=sharing
