@@ -17,4 +17,13 @@ retroactively add the new repo in notes after we are done this week.
 
 ## Notes
 
-> New repo linked:
+> I am just going to link every branch that I have worked on up to now for convenience. 
+It should be noted that some of the commmits that I made to a few of these branches have never and
+most likely will never see any use. However I used the them as learning experiences and 
+they helped me make progress on the final product.
+https://github.com/rmarathay/hedgehogs
+https://github.com/rmarathay/hedgehogs/tree/frontend-redesign
+https://github.com/rmarathay/hedgehogs/tree/frontend
+https://github.com/rmarathay/hedgehogs/tree/develop
+Also as you are reading this, I am sure you are aware that I also made commits to:
+https://github.com/dylanmoody/rcos-status-updates
